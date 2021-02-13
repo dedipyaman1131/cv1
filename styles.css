@@ -23,3 +23,7 @@ li{
 table{
   color: #556b2f;
 }
+img{
+  width:50%;
+  height:70%}
+#circular{ border-radius:100%;}
